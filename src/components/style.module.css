@@ -1,0 +1,23 @@
+.divBox{
+    background-color: grey;
+    justify-content: start;
+    padding:1%;
+    margin:10px
+}
+.cityBox{
+    background-color: lightblue;
+    padding:1%;
+    margin:10px
+}
+input{
+padding:2%;
+}
+.main{
+    width:30%;
+    padding:1%;
+    margin-left:30%;
+    margin-top:20px
+}
+button{
+    background-color: greenyellow;
+}
